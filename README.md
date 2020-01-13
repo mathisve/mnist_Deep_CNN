@@ -21,5 +21,5 @@ This was just an experiment to see if a DCNN is better suited for the mnist data
 I uploaded it's predictions of `test.csv`to Kaggle and got an accuracy of `98.942%` which is good, but not fantastic.
 ![plot image](https://github.com/Mathisco-01/mnist_Deep_CNN/blob/master/plot.png?raw=true)
 
-Plot 1 being the accuracy where blue is the accuracy and green is the validation accuracy
-Plot 2 being the loss where blue is the loss and green is the validation loss
+- Plot 1 being the accuracy where blue is the accuracy and green is the validation accuracy
+- Plot 2 being the loss where blue is the loss and green is the validation loss
