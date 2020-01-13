@@ -20,5 +20,6 @@ Dense (10 neurons, softmax activation)
 This was just an experiment to see if a DCNN is better suited for the mnist dataset than a regular shallow CNN. In the end it turns out it's not that efficient because the mnist dataset isn't that complex. From other experiments I have found it performs as similar to a very shallow neural network with only 1 or 2 conv layers. As you see in the picture below, I ended up overfitting after the 6th of 7th epoch.
 I uploaded it's predictions of `test.csv`to Kaggle and got an accuracy of `98.942%` which is good, but not fantastic.
 ![plot image](https://github.com/Mathisco-01/mnist_Deep_CNN/blob/master/plot.png?raw=true)
+
 Plot 1 being the accuracy where blue is the accuracy and green is the validation accuracy
 Plot 2 being the loss where blue is the loss and green is the validation loss
